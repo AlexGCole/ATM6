@@ -1,0 +1,13 @@
+{
+	uuid: "c8f6b5a9-6a32-46b4-b88f-7249e2468f07",
+	name: "Monster_Duck",
+	can_edit: false,
+	money: 0L,
+	auto_pin: false,
+	task_progress: {
+		523C1E77663E2287: 1,
+		667004CD0469493D: 1
+	},
+	claimed_rewards: [],
+	pinned_quests: []
+}

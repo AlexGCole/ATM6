@@ -1,0 +1,16 @@
+{
+	uuid: "c1fe5cc4-954a-4b3d-93cf-b4a4f35efb80",
+	name: "IonicJoker3",
+	can_edit: false,
+	money: 0L,
+	auto_pin: false,
+	task_progress: {
+		4D6831E87CCCC3F2: 1,
+		523C1E77663E2287: 1,
+		59FF7825435AF860: 1,
+		667004CD0469493D: 1,
+		71D1672A82D08E89: 1
+	},
+	claimed_rewards: [],
+	pinned_quests: []
+}
